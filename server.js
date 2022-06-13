@@ -39,4 +39,7 @@ sequelize.sync({ force: false }).then(() => {
   app.set('view engine','handlebars');
 });
 
-//14.1.4
+
+
+
+
